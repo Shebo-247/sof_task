@@ -50,10 +50,9 @@ lib/
 └── main.dart                             # Entry point
 ```
 
-## UI Screenshots
-| Users Screen | Reputation Screen |
-|--------------|-------------------|
-| ![users_screen](screenshots/users-screen.png) | ![reputation_screen](screenshots/reputation-screen.png) |
+## UI Demo
+
+![demo](screenshots/demo.gif)
 
 ## ✨ Features
 
